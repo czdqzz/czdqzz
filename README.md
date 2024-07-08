@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.papermark.io">CZDQZZ GitHub</a>
+  <a href="https://czdqzz.github.io/czdqzz/">CZDQZZ GitHub</a>
 </div>
 
 <br/>
