@@ -9,7 +9,7 @@
 - **Rated Insulation Voltage:** 1000V
 - **Rated Voltage:** 690V
 - **Rated Current:** 1600A  
-- **Circuit Breaker Function:** Protect electrical power system
+- **Circuit Breaker Function:** Protecting electrical power system
 - **Applicable Environment:** We will analyze temperature, moisture and altitude when we choose this circuit breaker that will be used in our project
 
 
