@@ -24,7 +24,7 @@
 - With automatic controller
 
 
-## CBIS-40.5P Vacuum Circuit Breaker 
+## CBIS-40.5P Vacuum Circuit Breaker (VCB)
 
 - **Rated Voltage:** 40.5KV
 - Indoor Vacuum Circuit Breaker VCB with Embedded Pole Columns
@@ -34,7 +34,7 @@
 - **Applicable Environment:** Power Plant or Transformer Station
 
 
-## CB22 Intelligent Air-operated Circuit Breaker
+## CB22 Intelligent Air-operated Circuit Breaker (ACB)
 
 - **Rated Voltage:** 660V
 - **Rated Current:** 400-6300A  
