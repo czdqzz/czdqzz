@@ -19,7 +19,9 @@ Our web app is designed by HTML, Tailwind, and Bootstrap.
 
 </div>
 
+<br/>
+
 ## Circuit Breakers 
 
-We will introduce some circuit breakers of CZDQZZ in this Markdown text file. [Circuit Breakers](/CIRCUIT-BREAKER.md)
+We will introduce some circuit breakers of CZDQZZ in this markdown text file. [Circuit Breakers](/CIRCUIT-BREAKER.md)
 
