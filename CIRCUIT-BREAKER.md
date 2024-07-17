@@ -26,7 +26,7 @@
 
 ## CBIS-40.5P Vacuum Circuit Breaker 
 
-- **Rated Voltage:** 690V
+- **Rated Voltage:** 40.5KV
 - Indoor Vacuum Circuit Breaker VCB with Embedded Pole Columns
 - High reliability and convenient for maintainance
 - Operated with Switch Board
@@ -49,6 +49,6 @@
 
 Our products always comply with GB(the national standard), and we always research the latest technology in electrical industry.
 
-In this markdown text file, we just introduce some circuit breakers of CZDQZZ. You could also read [Electrical Technology](https://www.electricaltechnology.org/2021/05/types-of-circuit-breakers.html) to know many circuit breakers details
+In this markdown text file, we just introduce some circuit breakers of CZDQZZ. You could also read [Electrical Technology](https://www.electricaltechnology.org/2021/05/types-of-circuit-breakers.html) to know many circuit breakers details.
 
-You could return to [README.md](/README.md)
+You could return to [README.md](/README.md) from here.
