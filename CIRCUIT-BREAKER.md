@@ -44,6 +44,23 @@
 - Open Communication Interface
 - Remote Monitoring and Remote Control in LAN Network 
 
+## CBB1-32 Miniature Circuit Breaker (MCB)
+
+- **Rated Voltage:** 230V
+- **Rated Current:** 32A  
+- High Breaking Capacity
+- Overloads and Short Circuit Protection
+- Designed for power and lighting of homes
+- Made by Highly Flame Retardant material and Impact-resistant material
+- Bipolar Structure Protection
+
+## CBB1LE-32 Earth Leakage Circuit Breaker (ELCB)
+
+- **Rated Voltage:** 230V
+- **Rated Current:** 32A 
+- Prevent fires from leakage current
+- Operated with MCB 
+- 1-3 Poles
 
 ## Summary
 
