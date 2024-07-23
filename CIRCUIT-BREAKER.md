@@ -58,7 +58,7 @@
 
 - **Rated Voltage:** 230V
 - **Rated Current:** 32A 
-- Prevent fires from leakage current
+- Preventing fires from leakage current
 - Operated with MCB 
 
 ## Summary
