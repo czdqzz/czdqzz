@@ -60,7 +60,6 @@
 - **Rated Current:** 32A 
 - Prevent fires from leakage current
 - Operated with MCB 
-- 1-3 Poles
 
 ## Summary
 
