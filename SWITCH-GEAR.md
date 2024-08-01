@@ -53,6 +53,7 @@
 
 ## Summary
 The power plant will generate 10KV electricity and convert it to 35KV or higher (like 110KV or 220KV). And power will be supplied to all industries and homes through high-voltage electrical systems. We will use low-voltage electrical systems (220V or 230V) in our daily lives or work. Between high-voltage and low-voltage electrical systems, there are transformer stations to convert voltage.
+
 The power plant means wind turbines and solar panels that can generate renewable energy. Coal-, oil-, and gas-fired power plants will generate less and less power.
 
 You could return to [README.md](/README.md) from here.
