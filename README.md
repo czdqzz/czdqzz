@@ -27,5 +27,5 @@ We will introduce some circuit breakers of CZDQZZ in this markdown text file.  [
 
 ## Switch Gear
 
-We will introduce some switch gears of CZDQZZ in this markdown text file.  [Switch Gear](/SWITCH-GEAR.md)
+Switch gear is relatively important in electrical systems. We will introduce some switch gears of CZDQZZ in this markdown text file.  [Switch Gear](/SWITCH-GEAR.md)
 
