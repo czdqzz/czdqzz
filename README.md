@@ -25,3 +25,7 @@ Our web app is designed by HTML, Tailwind, and Bootstrap.
 
 We will introduce some circuit breakers of CZDQZZ in this markdown text file.  [Circuit Breakers](/CIRCUIT-BREAKER.md)
 
+## Switch Gear
+
+We will introduce some switch gears of CZDQZZ in this markdown text file.  [Switch Gear](/SWITCH-GEAR.md)
+
