@@ -29,7 +29,7 @@
 - **Rated Voltage:** 40.5KV
 - Indoor Vacuum Circuit Breaker VCB with Embedded Pole Columns
 - High reliability and convenient for maintenance
-- Operated with Switch Board
+- Operated with Switch Gear
 - **Intelligent Function:** Online Monitoring of Temperature and Vacuum
 - **Applicable Environment:** Power Plant or Transformer Station
 
