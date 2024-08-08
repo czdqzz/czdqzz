@@ -30,7 +30,7 @@
 - **Rated Voltage:** 3.6-12KV
 - **Rated Frequency:** 50Hz
 - **Rated Current:** 630-3150A
-- 
+  
 - Box-type Fixed AC Metal-sealed Switch Gear
 - **Core Function:** Power Receiving and Distribution, and suitable for frequent operation
 - **Applicable Environment:** Power Plant and Many Industries
