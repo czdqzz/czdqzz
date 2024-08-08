@@ -6,9 +6,10 @@
 
 ## CBKYN61-40.5 Switch Gear
 
-- Armored moveable AC metal-sealed high-voltages switch gear
 - **Rated Voltage:** 40.5KV
 - **Rated Frequency:** 50Hz
+  
+- Armored moveable AC metal-sealed high-voltages switch gear
 - **Length of Switch Gear:** 2800mm, 3000mm
 - **Width of Switch Gear:** 1400mm
 - **Height of Switch Gear:** 2600mm
@@ -25,11 +26,12 @@
 
 ## XGN2-12 Switch Gear
 
-- Box-type Fixed AC Metal-sealed Switch Gear
+
 - **Rated Voltage:** 3.6-12KV
 - **Rated Frequency:** 50Hz
-- **Rated Current:** 630-3150A 
-
+- **Rated Current:** 630-3150A
+- 
+- Box-type Fixed AC Metal-sealed Switch Gear
 - **Core Function:** Power Receiving and Distribution, and suitable for frequent operation
 - **Applicable Environment:** Power Plant and Many Industries
 
