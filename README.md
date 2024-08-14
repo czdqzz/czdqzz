@@ -29,3 +29,7 @@ We will introduce some circuit breakers of CZDQZZ in this markdown text file.  [
 
 Switch gear is relatively important in electrical systems. We will introduce some switch gears of CZDQZZ in this markdown text file.  [Switch Gear](/SWITCH-GEAR.md)
 
+## Distribution Boxes
+
+Distribution boxes are widely used in electrical systems. They receive electrical power from a main power line and distribute it. We will introduce some distribution boxes of CZDQZZ in this markdown text file. [Distribution Boxes](/DISTRIBUTION-BOX.md)
+
