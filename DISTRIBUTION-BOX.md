@@ -13,9 +13,9 @@
 
 - JP Outdoor Type Reactive Power Compensation Distribution Box
 
-- **Length of Switch Gear:** 700, 740mm
-- **Width of Switch Gear:** 450mm
-- **Height of Switch Gear:** 1100mm
+- **Length of Distribution Box:** 700, 740mm
+- **Width of Distribution Box:** 450mm
+- **Height of Distribution Box:** 1100mm
 
 - **Applicable Environment:** Improvement of the power grid, factory and mining industries, and buildings 
 - **Core Function:** Power Distribution, Circuit Control, Reactive Power Compensation, and Energy Measurement
