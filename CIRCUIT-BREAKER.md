@@ -10,7 +10,7 @@
 - **Rated Voltage:** 690V
 - **Rated Current:** 1600A  
 - **Circuit Breaker Function:** Protecting electrical power system
-- **Applicable Environment:** We will analyze temperature, moisture and altitude when we choose this circuit breaker that will be used in our project
+- **Applicable Environment:** We will analyze temperature, moisture and elevation when we choose this circuit breaker that will be used in our project
 
 
 ## CBM30E Molded Case Circuit Breaker (MCCB)
