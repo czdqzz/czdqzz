@@ -39,8 +39,6 @@
 ## Summary
 PLCs are very popular in the manufacturing industry. We could imagine a microcomputer working in an industrial environment. Like PLCs can automate power switch by program in electrical system.
 
-The program of PLCs could be written by C, C++, C#(C Sharp).
-
 You could return to [README.md](/README.md) from here.
 
 
