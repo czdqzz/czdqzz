@@ -34,5 +34,5 @@ Switch gear is relatively important in electrical systems. We will introduce som
 Distribution boxes are widely used in electrical systems. They receive electrical power from a main power line and distribute it. We will introduce some distribution boxes of CZDQZZ in this markdown text file. [Distribution Boxes](/DISTRIBUTION-BOX.md)
 
 ## Dual Power ATS 
-We will introduce dual-power automatic transfer switch and PLCs in this markdown text file. [Dual Power ATS](/ATS.md)
+We will introduce dual power automatic transfer switch and PLCs in this markdown text file. [Dual Power ATS](/ATS.md)
 
