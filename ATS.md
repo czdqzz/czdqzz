@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center">Dual Power Automatic Switches of CZDQZZ</h1>
+  <h1 align="center">Dual Power ATS of CZDQZZ</h1>
 
 </div>
 
